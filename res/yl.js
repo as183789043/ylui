@@ -1206,3 +1206,8 @@ YL.util.onloadSafe(function () {
     });
   });
 });
+
+// Speed Insights vercel
+import { injectSpeedInsights } from '@vercel/speed-insights';
+
+injectSpeedInsights();
