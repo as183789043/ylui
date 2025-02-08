@@ -30,9 +30,5 @@
     "plugin": true,
     "java": false,
     "page-cache": false
-  },
-  "dependencies": {
-    "@vercel/speed-insights": "^1.1.0",
-    "http-server": "^13.0.1"
   }
 }
