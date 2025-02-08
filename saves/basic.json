@@ -2,7 +2,7 @@
   "configs": {
       "topTaskBar": false,
       "sound": false,
-      "wallpaper": "./res/img/wallpapers/bg1.jpg",
+      "wallpaper": "./res/img/wallpapers/bg16.jpg",
       "wallpaperBlur": false,
       "wallpaperSlide": false,
       "wallpaperSlideRandom": true,
@@ -72,6 +72,14 @@
           {
               "image": "./res/img/wallpapers/bg14.jpg",
               "preview": "./res/img/wallpapers/bg14_1.jpg"
+          },
+          {
+              "image": "./res/img/wallpapers/bg15.jpg",
+              "preview": "./res/img/wallpapers/bg15_1.jpg"
+          },
+          {
+              "image": "./res/img/wallpapers/bg16.jpg",
+              "preview": "./res/img/wallpapers/bg16_1.jpg"
           }
       ],
       "pathRes": "./res",
