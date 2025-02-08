@@ -1207,8 +1207,4 @@ YL.util.onloadSafe(function () {
   });
 });
 
-// Speed Insights vercel
-<script type="module">
-    import { injectSpeedInsights } from "@vercel/speed-insights";
-    injectSpeedInsights();
-</script>
+
